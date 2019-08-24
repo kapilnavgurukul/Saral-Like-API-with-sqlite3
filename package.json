@@ -1,0 +1,14 @@
+{
+  "name": "sarallike",
+  "version": "1.0.0",
+  "description": "",
+  "main": "saral.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kapil",
+  "license": "ISC",
+  "dependencies": {
+    "sqlite3": "^4.1.0"
+  }
+}
